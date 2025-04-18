@@ -1,0 +1,13 @@
+html {
+       background-color: azure;
+     }
+:root {
+    text-align: center;
+   }
+img{
+  width: 100px;
+  height: 100px;
+}
+a {
+       color: Blue;
+}
